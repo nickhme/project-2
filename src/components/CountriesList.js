@@ -9,12 +9,12 @@ function CountriesList() {
   }, [])
 
   React.useEffect(() => {
-    async function fetchCountries() {
+    async function fetchallCountries() {
       const resp = await fetch("https://restcountries.com/v3.1/all")
       const countriesData = await resp.json()
       updateCountries(countriesData)
     }
-    fetchCountries()
+    fetchallCountries()
   }, [])
 
   return <section className="section">

@@ -7,7 +7,7 @@ function Home() {
 
   return (
     <section className="hero is-link is-fullheight-with-navbar is-link">
-      <div className="hero-body has-text-centered">
+      <div className="hero-body">
         <div className="container">
           <p className="title">🏳 Nicks Countries Demo 🏳</p>
         </div>

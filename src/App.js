@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <main>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/countries" element={<CountriesList />} />
           <Route path="/about" element={<About />} />
           <Route path="/country/:countryName" element={<ShowCountry />} />

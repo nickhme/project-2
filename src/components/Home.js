@@ -9,7 +9,7 @@ function Home() {
     <section className="hero is-link is-fullheight-with-navbar is-link">
       <div className="hero-body has-text-centered">
         <div className="container">
-          <p className="title">🏳 React Promised Land 🏳</p>
+          <p className="title">🏳 Nicks Countries Demo 🏳</p>
         </div>
       </div>
     </section>

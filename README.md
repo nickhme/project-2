@@ -2,7 +2,7 @@
 
 ## Using NPM and Collaborators
 
-Mike Salter and Nick Hayes
+Mike Salter and Nick Hayes and Mehtaab
 
 `npm run start` or `npm run dev`  to run the development server
 
